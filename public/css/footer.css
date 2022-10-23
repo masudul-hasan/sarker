@@ -1,0 +1,42 @@
+
+#footer
+{
+    width:100% auto;
+    height:2.40%;
+    border-radius:5px;
+    border:0px solid #1D5A78;
+    background-color:#1D5A78;
+    margin-top:.2%;
+    margin-bottom:.2%;
+    padding: 10px;
+    font-family: Tahoma;
+    font-size: 12px;
+    clear: both;
+    color: white;
+}
+
+#info
+{
+    float:right;
+}
+
+#info a
+{
+    color:#B0ECFF;
+}
+
+#info a:hover
+{
+    
+    color:#0099CC;
+}
+
+#infoleft
+{
+    float:left;
+}
+
+#infoleft a
+{
+    color:#B0ECFF;
+}
