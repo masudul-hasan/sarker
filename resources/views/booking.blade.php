@@ -26,7 +26,7 @@
                 <img src="{{ asset('images/car2.png') }}" class="card-img-top" alt="...">
                 <div class="card-body">
                     <!-- <h5 class="card-title">Goal</h5> -->
-                    <p class="card-text">Super</p>
+                    <p class="card-text">SUV</p>
                 </div>
             </div>
         </div>
